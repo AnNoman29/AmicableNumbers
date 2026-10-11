@@ -1,4 +1,3 @@
-# AmicableNumbers
 # Amicable Numbers — Testing Assignment
 
 ## Problem
@@ -46,24 +45,3 @@ The sample supplied in the assignment lists output `2` for range `1 1000`, but t
 - Add the screenshot to `screenshots/`.
 - Write the note by hand, take a photo/scan, and optionally add that image to `note/`.
 - Push the repository to GitHub and submit its URL.
-
-INPUT
------
-1 300
-200 300
-1 1000
-1 10000
-1 10
-220 284
-221 283
-0 0
-
-EXPECTED OUTPUT
----------------
-1
-1
-1
-5
-0
-1
-0
